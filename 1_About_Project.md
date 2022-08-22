@@ -6,7 +6,7 @@ The user inserts the required data and then presses on the 'test result' button,
 then the app return an output of the result that the ML model predicted (diseased or not).
 
 ## Link for the app :
-https://mohamedabedrabo-disease-prediction-ml-webapp-mdps-public-95nldx.streamlitapp.com
+https://mohamedabedrabo-disease-prediction-ml-webapp-mdps-public-ex52s2.streamlitapp.com/
 
 ## Data to test the app :
 Diabetes : 10,125,70,26,115,31.1,0.205,41. it should return that the person is diseased.
