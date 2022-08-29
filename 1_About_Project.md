@@ -16,7 +16,7 @@ Heart disease : 54,1,0,110,239,0,1,126,1,2.8,1,1,3. it should return that the pe
 I used the attached datasets to train the models : diabetes.csv, heart_disease_data.csv .
 
 1st : I built the models with Python Jupyter Notebook using Logistic Regression and SVM algorithms.
-Files : Diabetes_Prediction_SVM.py, Heart_Disease_Prediction_LR.py .
+Files : 1_Diabetes_Prediction_SVM.ipynb , 2_Heart_Disease_Prediction_LR.ipynb.
 
 2nd : I built the User Interface with Python Spyder tool and then i deployed the app using streamlit.
 File : mdps_public.py .
